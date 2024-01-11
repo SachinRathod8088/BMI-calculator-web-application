@@ -29,8 +29,10 @@ and weight, and calculates the BMI along with a category indicating the BMI rang
    git clone https://github.com/your-username/bmi-calculator.git
 
 
-1. Open the index.html file in a web browser.
 
-2.Fill in the required information in the form and click "Calculate BMI."
 
-3.View the calculated BMI and category displayed below the form.
+2. Open the index.html file in a web browser.
+
+3.Fill in the required information in the form and click "Calculate BMI."
+
+4.View the calculated BMI and category displayed below the form.
